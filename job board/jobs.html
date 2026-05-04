@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jobs</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+
+        <nav class="navbar">
+
+            <h2 class="logo">JobPortal</h2>
+
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="jobs.html">Jobs</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <section class="jobs-page">
+
+        <h1>Available Jobs</h1>
+
+        <input
+            type="text"
+            id="search"
+            placeholder="Search jobs..."
+            onkeyup="searchJobs()"
+        >
+
+        <div class="job-container">
+
+            <div class="job-card">
+                <h3>Web Developer</h3>
+                <p>Company: Wipro</p>
+                <p>Location: Hyderabad</p>
+
+                <a href="apply.html" class="btn-small">
+                    Apply
+                </a>
+            </div>
+
+            <div class="job-card">
+                <h3>Software Engineer</h3>
+                <p>Company: Accenture</p>
+                <p>Location: Pune</p>
+
+                <a href="apply.html" class="btn-small">
+                    Apply
+                </a>
+            </div>
+
+            <div class="job-card">
+                <h3>Data Analyst</h3>
+                <p>Company: Deloitte</p>
+                <p>Location: Bangalore</p>
+
+                <a href="apply.html" class="btn-small">
+                    Apply
+                </a>
+            </div>
+
+        </div>
+
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

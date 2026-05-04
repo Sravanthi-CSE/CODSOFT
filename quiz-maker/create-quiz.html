@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QuizMaster | Create</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="logo">Quiz<span>Master</span></a>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="take-quiz.html">Play</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <div class="glass-card">
+            <h1>Create Your Quiz</h1>
+            <p>Define your title, question, and multiple choices.</p>
+
+            <div class="form-group">
+                <label>Quiz Title</label>
+                <input type="text" placeholder="e.g., Web Fundamentals">
+            </div>
+
+            <div class="form-group">
+                <label>Question 1</label>
+                <textarea rows="3" placeholder="What is the result of 2 + 2?"></textarea>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                <div class="form-group"><label>Option A</label><input type="text"></div>
+                <div class="form-group"><label>Option B</label><input type="text"></div>
+                <div class="form-group"><label>Option C</label><input type="text"></div>
+                <div class="form-group"><label>Option D</label><input type="text"></div>
+            </div>
+
+            <div class="form-group">
+                <label>Correct Answer</label>
+                <select>
+                    <option>Select Option</option>
+                    <option>A</option><option>B</option><option>C</option><option>D</option>
+                </select>
+            </div>
+
+            <button class="btn btn-primary" style="width: 100%;">Publish Quiz</button>
+        </div>
+    </main>
+</body>
+</html>

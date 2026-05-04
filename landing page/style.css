@@ -1,0 +1,197 @@
+/* Core Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #f4f4f4;
+    overflow-x: hidden;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 8%;
+    background: rgba(17, 24, 39, 0.95);
+    backdrop-filter: blur(10px);
+    color: white;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 24px;
+    color: #38bdf8;
+    letter-spacing: 1px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.nav-links a:hover {
+    color: #38bdf8;
+}
+
+.menu-icon {
+    display: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+/* Hero Section */
+.hero {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+                url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 0 20px;
+}
+
+.hero-content h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+
+.accent {
+    color: #38bdf8;
+}
+
+.cta-btn {
+    padding: 14px 32px;
+    border: none;
+    background: #2563eb;
+    color: white;
+    font-size: 18px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.3s;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.4);
+}
+
+.cta-btn:hover {
+    background: #1e40af;
+    transform: scale(1.05);
+}
+
+/* Features Cards */
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 100px 8%;
+    flex-wrap: wrap;
+    background: #fff;
+}
+
+.card {
+    background: white;
+    padding: 40px;
+    width: 320px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    text-align: center;
+    transition: 0.4s ease;
+    border: 1px solid #eee;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    border-color: #38bdf8;
+}
+
+.feature-icon {
+    font-size: 45px;
+    color: #2563eb;
+    margin-bottom: 20px;
+}
+
+/* About Section */
+.about {
+    text-align: center;
+    padding: 100px 20%;
+    background: #f9fafb;
+}
+
+.divider {
+    width: 60px;
+    height: 4px;
+    background: #38bdf8;
+    margin: 20px auto;
+}
+
+/* Footer */
+footer {
+    background: #111827;
+    color: #9ca3af;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.socials {
+    margin-bottom: 20px;
+}
+
+.socials a {
+    color: white;
+    font-size: 24px;
+    margin: 0 15px;
+    transition: 0.3s;
+}
+
+.socials a:hover {
+    color: #38bdf8;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        background: #111827;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    .hero-content h1 {
+        font-size: 2.5rem;
+    }
+}

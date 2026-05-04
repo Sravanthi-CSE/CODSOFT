@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login | QuizMaster</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="auth-page">
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">Quiz<span>Master</span></div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="take-quiz.html">Browse</a></li>
+                <li><a href="create-quiz.html">Create</a></li>
+                <li><a href="login.html" class="active login-btn">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container flex-center">
+        <section class="auth-card">
+            <div class="auth-header">
+                <h1>Welcome Back</h1>
+                <p>Login to manage your quizzes and track progress.</p>
+            </div>
+
+            <form id="login-form">
+                <div class="input-group">
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" placeholder="name@example.com" required>
+                </div>
+
+                <div class="input-group">
+                    <div class="label-wrapper">
+                        <label for="password">Password</label>
+                        <a href="#" class="forgot-link">Forgot?</a>
+                    </div>
+                    <input type="password" id="password" placeholder="••••••••" required>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-full">Sign In</button>
+
+                <div class="auth-footer">
+                    <p>Don't have an account? <a href="register.html">Create an account</a></p>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 QuizMaster | CodSoft Internship Project</p>
+    </footer>
+
+</body>
+</html>
