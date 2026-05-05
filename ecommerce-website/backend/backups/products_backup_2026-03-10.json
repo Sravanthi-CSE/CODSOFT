@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-03-10T14:35:27.064Z",
+  "totalProducts": 19,
+  "products": [
+    {
+      "_id": "69b02c213389df27931eaf0b",
+      "name": "The Alchemist",
+      "description": "A novel by Paulo Coelho about following your dreams",
+      "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL._SY522_.jpg",
+      "price": 399,
+      "countInStock": 25,
+      "category": "Books",
+      "createdAt": "2026-03-10T14:35:13.240Z",
+      "updatedAt": "2026-03-10T14:35:13.240Z"
+    },
+    {
+      "_id": "69b02c213389df27931eaf0c",
+      "name": "LEGO Creator 3-in-1 Deep Sea Creatures",
+      "description": "Build a crab, octopus or angler fish with this creative LEGO set",
+      "image": "https://m.media-amazon.com/images/I/81g9+5n7JEL._SX679_.jpg",
+      "price": 2499,
+      "countInStock": 15,
+      "category": "Toys & Games",
+      "createdAt": "2026-03-10T14:35:13.240Z",
+      "updatedAt": "2026-03-10T14:35:13.240Z"
+    },
+    {
+      "_id": "69b027d01b6e183d4b9fcb26",
+      "name": "Silver's SB-100 Combo-5 (2 Badminton Rackets + 2 Pcs Plastic Shuttle) Red-Yellow",
+      "description": "Size\t26 inches\nBrand\tSilver's\nGrip Size\t4 inches\nSport\tBadminton\nMaterial\tAlloy Steel",
+      "image": "https://m.media-amazon.com/images/I/81Z1ds-MpaL._SX679_.jpg",
+      "price": 279,
+      "countInStock": 15,
+      "category": "Sports",
+      "createdAt": "2026-03-10T14:16:48.822Z",
+      "updatedAt": "2026-03-10T14:16:48.822Z"
+    },
+    {
+      "_id": "69b026f91b6e183d4b9fcb22",
+      "name": "FLICKIT Smart Football Size 5 – AI-Powered Training Ball for Teens & Adults (Ages 13+) | Durable Grained PU | Precision Stitching | App-Enabled Drill Tracking | Indoor Outdoor Grass Turf Use",
+      "description": "Brand\tFLICKIT\nMaterial\tPolyurethane (PU)\nColour\tYellow (Silver / Magenta)\nAge Range (Description)\tIdeal for 13+\nItem Weight\t420 Grams",
+      "image": "https://m.media-amazon.com/images/I/81PnEMHI-dL._SX679_.jpg",
+      "price": 1099,
+      "countInStock": 32,
+      "category": "Sports",
+      "createdAt": "2026-03-10T14:13:13.522Z",
+      "updatedAt": "2026-03-10T14:13:13.522Z"
+    },
+    {
+      "_id": "69b026871b6e183d4b9fcb1e",
+      "name": "New Balance Burn 500i English Willow Cricket Bat",
+      "description": "\nSize\t33 inches\nSport\tCricket\nBrand\tnew balance\nMaterial\tWillow Wood\nColour\tEnglish Willow Wood",
+      "image": "https://m.media-amazon.com/images/I/41fT16V8c6L._SX679_.jpg",
+      "price": 12499,
+      "countInStock": 12,
+      "category": "Sports",
+      "createdAt": "2026-03-10T14:11:19.611Z",
+      "updatedAt": "2026-03-10T14:11:19.611Z"
+    },
+    {
+      "_id": "69b025931b6e183d4b9fcafe",
+      "name": "Pigeon by Stovekraft Rush Thermos Stainless Steel Sipper Flask 750ml with Straw,Cleaner and Additional Screw Cap| 24 Hours Hot and Cold|Ideal Usage for Office Men/Women|School/College|Travel|Pin",
+      "description": "Brand\tPigeon\nCapacity\t750 Milliliters\nColour\tPink\nRecommended Uses For Product\tCoffee, Soup, Tea, Water\nSpecial Feature\tBreak Resistant, Cold 24 Hours, Double Wall, Hot 24 Hours, Spillproof\nVibrant Color Options: Choose from a stunning array of eye-catching colors to suit your style and mood.\nLeakproof Design: Enjoy worry-free hydration with a secure, leakproof seal that keeps your bag and belongings safe from spills.\nInsulated Performance: Maintain the temperature of your beverages with the double-wall insulation, keeping drinks hot or cold for extended periods.\nConvenient Size: Perfectly sized at 750ml, providing ample hydration on the go without being too bulky",
+      "image": "https://m.media-amazon.com/images/I/61X121XtueL._SX679_.jpg",
+      "price": 699,
+      "countInStock": 21,
+      "category": "Home",
+      "createdAt": "2026-03-10T14:07:15.784Z",
+      "updatedAt": "2026-03-10T14:07:15.784Z"
+    },
+    {
+      "_id": "69b024e51b6e183d4b9fcafa",
+      "name": "AMATA Marino 3 Seater Sofa Camel Suede Velvet Sofa Set with Two Cushions Perfect for Home Office Guests Living Room (01 Camel, 3 Seater)(3 Year Warranty)",
+      "description": "Brand\tAMATA\nAssembly Required\tNo\nSeat Depth\t73.7 Centimeters\nSeat Height\t16 Inches\nWeight Limit\t300 Kilograms\nSeating Capacity\t3.00\nProduct Dimensions\t76D x 187W x 81H Centimeters\nItem Weight\t40 Kilograms\nProduct dimension in cm Package = Length (185) Breadth (76.2) Height (81) Sitting Height (40.64)\nMaterials = Frame - solid wood Seating = 40-density foam / Tufted back = Soft foam & Recron fiber / Upholstery Material = Premium Velvet Suede Fabric / Legs = wooden / Seating Capacity = 3 seater / Comfort Level = Medium Firm. Zigzag Spring Suspension System = Heavy gauge zigzag springs are used under the foam to provide extra strength, comfort, and bounce.\nAssembly Information:- Pre-assembled with minimal effort required. Only the legs need to be attached by the customer.",
+      "image": "https://m.media-amazon.com/images/I/71fafEOfOfL._SX679_.jpg",
+      "price": 685,
+      "countInStock": 48,
+      "category": "Home",
+      "createdAt": "2026-03-10T14:04:21.635Z",
+      "updatedAt": "2026-03-10T14:04:21.635Z"
+    },
+    {
+      "_id": "69b0244d1b6e183d4b9fcaf3",
+      "name": "Auromin Designer Wall Clock for Bedroom Stylish | Modern Wall Clock for Hall, Home, Office, Kitchen | Latest Luxury Premium Unique Silent Fancy Wall Watch for Living Room, Home Décor",
+      "description": "Brand\tAUROMIN ; THE ART OF INGENUITY\nColour\tWhite-Blue\nDisplay Type\tAnalog\nStyle\tUnique, Latest, Trending, Stylish, Antique\nSpecial Feature\tEasy Installation, Elegant Design, Perfect Gift Option, Silent Moments\nProduct Dimensions\t30W x 30H Centimeters\nStylish & Modern Design: Upgrade your space with this beautifully crafted wall clock for bedroom stylish. Perfect for living room, bedroom, hall, kitchen, or office décor, its round, designer look adds a modern and premium touch to any wall.\nPerfect Size for Any Room: Measuring 30×30 cm, this wall clock for hall fits seamlessly into your living room, hallway, or office. Its ideal dimensions offer excellent visibility without taking up too much space, making it a stylish and functional addition to any interior.\nEasy to Read & Clean: Designed with clear numerals and analog display, this modern wall watch for living room ensures quick time checks at a glance. Made with dust-resistant materials, it's also easy to clean, making it a low-maintenance home accessory.",
+      "image": "https://m.media-amazon.com/images/I/71QLZEGu-dL._SX679_.jpg",
+      "price": 684,
+      "countInStock": 16,
+      "category": "Home",
+      "createdAt": "2026-03-10T14:01:49.092Z",
+      "updatedAt": "2026-03-10T14:02:01.718Z"
+    },
+    {
+      "_id": "69b023a41b6e183d4b9fcaec",
+      "name": "Divine Trends Wood Pebble Table Lamp 19 Inches Height With 10 Inches Diameter Cream Jute Lamp Shade For Bedroom, Bedside, Living Room, Home Decoration, Hotel Pack Of 1 with Led Bulb",
+      "description": "\nFinish Type\tPolished\nBase Material\tWood\nBulb Base\tE27\nProduct Dimensions\t18D x 25W x 48H Centimeters\nItem Weight\t1.5 Kilograms\nLamp Type\tTable Lamp\nShade Colour\tCream Jute\nWooden Table Lamp: Designed to be compact and a perfect fit for small spaces\n100% Value: Seasoned wood, elegant finish, heavy base, sturdy frame\nMinimalistic yet Stunning Design: This table lamp will enhance the interiors of your space\nReliable Packaging: We invest in making our packaging strong and robust\nUses: Perfect for bedside, bedroom, living room, home decoration and hotel",
+      "image": "https://m.media-amazon.com/images/I/61dv4NuDCIL._SX522_.jpg",
+      "price": 2650,
+      "countInStock": 100,
+      "category": "Home",
+      "createdAt": "2026-03-10T13:59:00.933Z",
+      "updatedAt": "2026-03-10T13:59:15.207Z"
+    },
+    {
+      "_id": "69b023271b6e183d4b9fcae8",
+      "name": "A.T.U.N. (ALL THINGS UBER NICE) Girl's Polyester Skater Knee-Long Fit & Flare Casual Dress (GDRS NAT MPD_red_8-9 Y)",
+      "description": "Material type :Cotton\nLengthStandard :  Length\nOccasion type : Casual\nSleeve type : Sleeveless\nPattern : Solid\nStyle :Skater\nCountry of Origin  : India\nColor Name: Multicolor Options\n100% Cotton; Machine wash\nComfortable and stylish\nEasy to wear & remove; has a tie-up knot at front and zipper at the back\nMaterial Composition: 100% Polyester; Department Name: Girls; Sleeve Type: Sleeveless",
+      "image": "https://m.media-amazon.com/images/I/61EoAK7kP2L._SY741_.jpg",
+      "price": 429,
+      "countInStock": 14,
+      "category": "Fashion",
+      "createdAt": "2026-03-10T13:56:55.686Z",
+      "updatedAt": "2026-03-10T13:56:55.686Z"
+    },
+    {
+      "_id": "69b01da41b6e183d4b9fcad4",
+      "name": "YOHO Tempo Chunky Sneakers for Women|Stylish & Lightweight Casual Sports Shoes for Woman/Girls |Walking, Running, Gym & Everyday Use -0705",
+      "description": "Material type : Polyurethane\nClosure type : Lace-Up\nHeel type : No Heel\nWater resistance level : Not Water Resistant\nSole material : Polyvinyl Chloride\nStyle : Sneaker\nCountry of Origin :India\n1.Premium PU upper with breathable mesh lining\n2.EVA molded cushioning for lightweight support and shock absorption\n3.PVC sole for reliable grip and durability\n4.Slip-on ease for quick everyday wear\n5.Everyday Races collection sneaker",
+      "image": "https://m.media-amazon.com/images/I/716NEcaS-IL._SY625_.jpg",
+      "price": 1453,
+      "countInStock": 23,
+      "category": "Fashion",
+      "createdAt": "2026-03-10T13:33:24.410Z",
+      "updatedAt": "2026-03-10T13:33:24.410Z"
+    },
+    {
+      "_id": "69b01cbf1b6e183d4b9fcad0",
+      "name": "Miraggio Abby Laptop Tote Bag | Fits Upto 14 Inch Laptop | Shoulder Bag For Women Office Use | Office Bag For Women Stylish",
+      "description": "1.Elevate your daily style with the Abby Tote Bag—crafted with premium faux leather and a chic pebble-grain finish. Perfect for office, errands, or coffee runs, this sleek tote pairs function with fashion effortlessly.\n2.Stay organized with 1 main compartment, dedicated 14” laptop sleeve, zipper pocket, 2 slip pockets, 3 card slots & 2 lipstick holders. 3.Everything has its place, so you’re always ready on the go.\n4.Zipper closure keeps your items safe, while the spacious 36cm x 13cm x 29cm build offers room for your laptop, planner & more. 5.Lightweight at just 1.45kg, yet tough enough to handle everyday use.",
+      "image": "https://m.media-amazon.com/images/I/810uNgCOwVL._SX679_.jpg",
+      "price": 3855,
+      "countInStock": 13,
+      "category": "Fashion",
+      "createdAt": "2026-03-10T13:29:35.147Z",
+      "updatedAt": "2026-03-10T13:29:35.147Z"
+    },
+    {
+      "_id": "69b01c141b6e183d4b9fcacc",
+      "name": "ANNI Designer Women's Rayon Viscose Straight Kurta Set with Pant and Dupatta | Stylish Long Kurti Dress for Festive, Party, and Ethnic Wear",
+      "description": "Material composition : Rayon Viscose\nLengthCalf  : Length\nSleeve type : 3/4 Sleeve\nNeck style  : V  Neck\nStyle : Straight\nMaterial type : Rayon\nCountry of Origin :India\n1.Kurta Set Fabric: Rayon Viscose (Rayon Viscose 100%) || Kurta Set Color :- Rani\n2.Style: Straight || Length: Calf Length || Sleeves: 3/4 Sleeve || Size Chart- Kurta-S-36 in, M-38 in , L-40 in , XL-42 in , XXL-44 in,Pant :- S-28 in, M-30 in , L-32 in, XL- 34 in , XXL- 36 in,For More 3.Please refer to the size Chart below.\nThis set includes: 1 Kurta and 1 Pant with Dupatta || Work :- Embroidered || Neck Style:- V-Neck\nColour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions.\n",
+      "image": "https://m.media-amazon.com/images/I/41ShwgG9vaL._SX679_.jpg",
+      "price": 799,
+      "countInStock": 34,
+      "category": "Fashion",
+      "createdAt": "2026-03-10T13:26:44.311Z",
+      "updatedAt": "2026-03-10T13:26:44.311Z"
+    },
+    {
+      "_id": "69b01ae01b6e183d4b9fcac5",
+      "name": "DEELMO Men’s Stylish Cotton Blend Casual Shirt || Full Sleeve Button-Down Shirt with Dual Flap Pockets || Comfortable Breathable Fabric || Perfect for Casual Office and Outing Wear",
+      "description": "Material composition :Cotton Blend\nPattern :Solid\nFit type : Regular Fit\nSleeve type :Long Sleeve\nCollar style : Button Down\nStyle : Western\nCountry of Origin : India\n",
+      "image": "https://m.media-amazon.com/images/I/41tGbsN3b8L._SX569_.jpg",
+      "price": 499,
+      "countInStock": 28,
+      "category": "Fashion",
+      "createdAt": "2026-03-10T13:21:36.598Z",
+      "updatedAt": "2026-03-10T13:21:49.300Z"
+    },
+    {
+      "_id": "69b01a0c1b6e183d4b9fcac1",
+      "name": "ZEBRONICS Sound Feast 90 10W Output, Portable Wireless Speaker with Bluetooth v5.0, TWS, 6.3mm with Wired Mic, USB, mSD, AUX, Mobile Holder and RGB Lights",
+      "description": "\nBrand :\tZEBRONICS\nSpeaker Maximum Output Power :\t10 Watts\nFrequency Response\t : 20 Hz\nConnectivity Technology :\tBluetooth\nAudio Output Mode :\tStereo\n\n",
+      "image": "https://m.media-amazon.com/images/I/718mnMXpj5L._SX522_.jpg",
+      "price": 759,
+      "countInStock": 45,
+      "category": "Electronics",
+      "createdAt": "2026-03-10T13:18:04.960Z",
+      "updatedAt": "2026-03-10T13:18:04.960Z"
+    },
+    {
+      "_id": "69b019501b6e183d4b9fcabd",
+      "name": "Noise Diva 2 Fashion Smart Watch for Women- Sleekest Dial, 36mm AMOLED Display, Snug Fit, Improved Female Cycle Tracker,BT Calling, Sleep Tracking, AI Voice Assistant, Password Protection(Silver Blue)",
+      "description": "Operating System :\tios, android\nSpecial Feature\t :Brilliant AMOLED Display: Enjoy vivid colors and deep contrasts on the crystal-clear AMOLED screen, offering an immersive viewing experience., Health & Fitness Tracking: Monitor your heart rate, sleep patterns, steps, and more, keeping you on track with your wellness goals., Luxury Build: Premium materials with a refined finish, designed to provide a luxurious touch to your wrist., Notifications, Sleek & Sophisticated Design: Crafted for elegance, this smartwatch complements any look, from casual to formal.Brilliant AMOLED Display: Enjoy vivid colors and deep contrasts on the crystal-clear AMOLED screen, offering an immersive viewing experienc… See more\nConnectivity Technology :\tBluetooth\nWireless Communication : Standard\tBluetooth\nGPS\t: No GPS",
+      "image": "https://m.media-amazon.com/images/I/715v7BE9qbL._SX679_.jpg",
+      "price": 3999,
+      "countInStock": 36,
+      "category": "Electronics",
+      "createdAt": "2026-03-10T13:14:56.938Z",
+      "updatedAt": "2026-03-10T13:14:56.938Z"
+    },
+    {
+      "_id": "69b018a61b6e183d4b9fcab9",
+      "name": "Mivi DuoPods Aura 35 dB Quad-mic ANC Wireless TWS Earbuds, 60H Playback, 13mm Bass Drivers, Gaming Mode 50ms, Bluetooth v5.3, IPX4 Sweat Proof, Made in India Visit the Mivi Store",
+      "description": "\nBrand :\tMivi\nColour :\tCanvas White\nEar Placement\t: In Ear\nForm Factor\t: In Ear\nNoise Control:\tActive Noise Cancellation\n✅35 dB Quad-mic ANC: Enjoy distraction-free listening with 35 dB quad-mic Active Noise Cancellation (ANC) that helps reduce surrounding noise, letting you stay focused on your audio.\n✅Powerful Bass & Immersive Sound: DuoPods Aura wireless ear bud feature 13mm drivers that deliver deep bass, clear vocals, and balanced sound for music, movies, and everyday listening.\n✅Long Battery Life & Stable Connectivity: Get up to 60 hours of total playtime with Bluetooth v5.3 for fast pairing and a stable, seamless connection across devices.\n✅Gaming Mode with Ultra-Low Latency: Experience smooth and lag-free gameplay with Gaming Mode, offering ultra-low 50ms latency for better audio-visual sync.",
+      "image": "https://m.media-amazon.com/images/I/71BF5bhavbL._SL1500_.jpg",
+      "price": 1399,
+      "countInStock": 56,
+      "category": "Electronics",
+      "createdAt": "2026-03-10T13:12:06.642Z",
+      "updatedAt": "2026-03-10T13:12:06.642Z"
+    },
+    {
+      "_id": "69b017bd1b6e183d4b9fcab5",
+      "name": "Samsung Galaxy Book4 (Gray, 16GB RAM, 512GB SSD) | 15.6\" Full HD Screen | Intel Core i5 1335U Processor | Windows 11 Home | MS Office 2021 | Fingerprint Reader | Intel Iris XE Graphics | RJ45 LAN Port",
+      "description": "Brand\t: Samsung\nModel Name :\tSamsung Galaxy Book4\nScreen Size\t:15.6 Inches\nColour :\tGray\nHard Disk Size :\t512 GB\nCPU Model :\tIntel Core i5\nRAM Memory Installed Size :16 GB\n1.Processor: Intel Core i5 Processor 1335U (1.3 GHz Up to 4.6 GHz 12 MB Smart Cache) | 2.Memory: 16 GB LPDDR4X Memory | Storage: 512GB SSD| Intel Iris XE Graphics\n3.Operating System: Windows 11 Home | Pre-Installed Software: MS Office Home & Student 2021, Galaxy Ecosystem Apps\n4.Display: 15.6\" Inch (39.6cm) Full HD, (1920 x 1080) Resolution | 16:9 Aspect Ratio | 300 Nits 5.Brightness | 60Hz Refresh Rate\nPorts: 2 USB Type-C, 2 USB 3.2 Type-A, 1 HDMI, 1 MicroSD Card Reader, 1 RJ45 LAN Port | Wi-Fi 6 | Without CD-drive |Battery: 54 Watt Hours, Charger: 45W USB Type-C Adapter\nCamera: 1MP with 720p| Dolby Atmos | Microphone: 1 Headphone out/Mic-in Combo | FingerPrint Reader",
+      "image": "https://m.media-amazon.com/images/I/71TwTzVcVqL._SX679_.jpg",
+      "price": 58450,
+      "countInStock": 25,
+      "category": "Electronics",
+      "createdAt": "2026-03-10T13:08:13.600Z",
+      "updatedAt": "2026-03-10T13:08:13.600Z"
+    },
+    {
+      "_id": "69b016db1b6e183d4b9fcab1",
+      "name": "Nothing Phone (3a) Lite (White, 128 GB) (8 GB RAM)",
+      "description": "\nBrand\t : Nothing\nOperating System :\tAndroid 15\nRAM Memory Installed Size :\t128 GB\nCPU Model\t: Mediatek Dimensity 6300\nCPU Speed\t: 2.5 GHz\n6.77-inch FHD+ 120Hz AMOLED display MediaTek Dimensity 7300 Pro processor, 8GB of RAM with virtual RAM expansion 5000mAh battery with 33W fast charging 50MP main rear camera with OIS Nothing OS 3.5 based on Android 15\n",
+      "image": "https://m.media-amazon.com/images/I/717B2B7Hm8L._SY679_.jpg",
+      "price": 20748.7,
+      "countInStock": 28,
+      "category": "Electronics",
+      "createdAt": "2026-03-10T13:04:27.211Z",
+      "updatedAt": "2026-03-10T13:04:27.211Z"
+    }
+  ]
+}
